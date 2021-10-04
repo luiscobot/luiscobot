@@ -7,4 +7,4 @@
 
 ---
 
-Soy programador front-end, trabajando en [CercaDeCasa](https://cercadecasa.co/) y aprendiendo Ruby.
+Soy programador front-end, viviendo en Colombia, trabajando en [CercaDeCasa](https://cercadecasa.co/) y aprendiendo Ruby.
