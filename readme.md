@@ -1,10 +1,10 @@
-<h3 align="center">👋 Hola, soy Luis.</h3>
+<h3 align="center">👋 Hola, soy Luis Romero.</h3>
 
 <p align="center">
   <a href="https://luisromero.co/">Sitio web</a> •
-  <a href="https://twitter.com/luiscobits">Twitter</a>
+  <a href="https://twitter.com/luiscobot">Twitter</a>
 </p>
 
 ---
 
-Soy programador Front-end, viviendo en Colombia, trabajando en [CercaDeCasa](https://cercadecasa.co/) y aprendiendo Ruby/Rails.
+Soy programador Front-end, viviendo en Colombia, trabajando en [CercaDeCasa](https://cercadecasa.co/), aprendiendo Ruby/Rails y Svelte/SvelteKit.
