@@ -1,10 +1,3 @@
-<h3 align="center">👋 Hola, soy Luis Romero.</h3>
+Soy programador Front-end, trabajo en **[CercaDeCasa](https://cercadecasa.co/)**, aprendiendo Ruby/Rails.
 
-<p align="center">
-  <a href="https://luisromero.co/">Sitio web</a> •
-  <a href="https://twitter.com/luiscobot">Twitter</a>
-</p>
-
----
-
-Soy programador Front-end, viviendo en Colombia, trabajando en [CercaDeCasa](https://cercadecasa.co/), aprendiendo Ruby/Rails y Svelte/SvelteKit.
+Escribo en mi jardín digital **[luisromero.co](https://luisromero.co)**.
